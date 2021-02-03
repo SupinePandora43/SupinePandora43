@@ -34,3 +34,4 @@ jobs:
           plugin_languages_colors: github
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_stargazers: yes
