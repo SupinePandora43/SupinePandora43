@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/SupinePandora43?template=classic&activity=1&followup=1&isocalendar=1&languages=1&stars=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=full-year&languages.colors=github&stars.limit=4&config.timezone=Asia%2FYekaterinburg&config.animated=true)
+![Metrics](https://raw.githubusercontent.com/SupinePandora43/SupinePandora43/main/github-metrics.svg)
