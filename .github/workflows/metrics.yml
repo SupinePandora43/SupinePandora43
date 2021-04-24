@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   push: {branches: ["main"]}
   workflow_dispatch:
@@ -19,7 +19,7 @@ jobs:
 
           user: SupinePandora43
           template: classic
-          base: activity, community, repositories, metadata
+          base: activity, community, repositories #, metadata
           config_animated: yes
           config_timezone: Asia/Yekaterinburg
           plugin_followup: yes
