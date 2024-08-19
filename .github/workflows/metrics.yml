@@ -29,7 +29,7 @@ jobs:
           plugin_languages_colors: github
           plugin_stargazers: yes
           # anilist
-          plugin_anilist: yes
+          plugin_anilist: no
           plugin_anilist_medias: anime, manga             # Display both animes and mangas
           plugin_anilist_sections: favorites, characters  # Display only favorites and characters sections
           plugin_anilist_limit: 2                         # Limit to 2 entry per section (characters section excluded)
